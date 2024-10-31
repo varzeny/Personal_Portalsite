@@ -22,7 +22,7 @@
 
 ## 구조
 ![전체구조](./document/arch.png)
-![전체구조](./document/sub_domain.png)
+![전체구조](./document/subdomain.png)
 
 
 ## 환경
