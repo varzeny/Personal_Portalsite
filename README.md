@@ -8,7 +8,7 @@
 * 3 단계 : AWS t2.micro 세팅
 * 4 단계 : Nginx 리버스 프록시 세팅
 * 5 단계 : 서브 도메인들 구현
-    1. [중앙인증서버](https://github.com/varzeny/Authorizaion_Server_Py)
+    1. [중앙인증서버](https://github.com/varzeny/authorization_server_py.git)
     2. [블로그](https://github.com/varzeny/my_blog)
     3. [개인 웹하드](https://github.com/varzeny/Webhard_Server_Py)
     4. [P.I.A](https://github.com/varzeny/pia)
