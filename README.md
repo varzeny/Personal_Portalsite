@@ -21,7 +21,7 @@
 
 
 ## 구조
-![전체구조](./document/arch.png)
+![전체구조](./document/myportalsite_arch_1.png)
 ![전체구조](./document/subdomain.png)
 
 
