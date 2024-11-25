@@ -9,7 +9,7 @@
 * 4 단계 : Nginx 리버스 프록시 세팅
 * 5 단계 : 서브 도메인들 구현
     1. [중앙인증서버](https://github.com/varzeny/authorization_server_py.git)
-    2. [블로그](https://github.com/varzeny/my_blog)
+    2. [블로그](https://github.com/varzeny/blog_server_py.git)
     3. [개인 웹하드](https://github.com/varzeny/Webhard_Server_Py)
     4. [P.I.A](https://github.com/varzeny/pia)
     5. [Maze Survival](https://github.com/varzeny/maze_survival)
